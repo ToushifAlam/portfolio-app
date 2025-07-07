@@ -1,40 +1,36 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/pages/api-reference/create-next-app).
+# Portfolio
 
-## Getting Started
+**Portfolio** is a sleek, professional personal developer website built to showcase projects, skills, and experiences in a refined, dark-themed interface. Crafted from scratch with modular SCSS styling and animated components, it highlights impactful work, technical abilities, and personal branding.
 
-First, run the development server:
+## Tech Stack
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+- **Framework**: Next.js, React, TypeScript
+- **Styling**: SCSS Modules
+- **Animation**: Framer Motion
+- **Iconography**: React Icons
+- **Font**: Google Fonts – Raleway, Fira Code
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+---
 
-You can start editing the page by modifying `pages/index.tsx`. The page auto-updates as you edit the file.
+## Features
 
-[API routes](https://nextjs.org/docs/pages/building-your-application/routing/api-routes) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.ts`.
+### 1. Hero Section  
+Quick introduction, title, and call-to-action for hiring or connection.
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/pages/building-your-application/routing/api-routes) instead of React pages.
+### 2. About Section  
+Personal background, developer journey, and technologies you're currently working with.
 
-This project uses [`next/font`](https://nextjs.org/docs/pages/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+### 3. Experience Section  
+Freelance work, project collaborations, club involvement, and practical contributions.
 
-## Learn More
+### 4. Project Showcase  
+Visually rich, interactive cards highlighting top full-stack projects with GitHub and live links.
 
-To learn more about Next.js, take a look at the following resources:
+### 5. Contact Section  
+Simple, elegant contact CTA inviting recruiters or peers to reach out via email.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn-pages-router) - an interactive Next.js tutorial.
+---
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## Made By
 
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/pages/building-your-application/deploying) for more details.
+[@ToushifAlam](https://github.com/ToushifAlam)
